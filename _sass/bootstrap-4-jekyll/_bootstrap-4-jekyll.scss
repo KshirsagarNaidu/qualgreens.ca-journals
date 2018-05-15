@@ -1,0 +1,53 @@
+// Some CSS to ease the integration between Jekyll and Bootstrap 4.
+// It is not recommended to edit this file.
+
+.page-content {
+  img {
+    max-width: 100%;
+  }
+}
+
+.jumbotron.frontpage{
+  // https://www.pexels.com/photo/nature-forest-trees-park-38136/
+  background-image: url("../assets/img/pexels-photo-38136.jpeg");
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron.browse{
+  // https://www.pexels.com/photo/nature-forest-trees-park-38136/
+  background-image: url("../assets/img/books-1099067_1280.jpg");
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron.resource{
+  // https://www.pexels.com/photo/nature-forest-trees-park-38136/
+  background-image: url("../assets/img/books-1099067_1280.jpg");
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+
+.jumbotron.ssandh{
+  // https://www.pexels.com/photo/nature-forest-trees-park-38136/
+  background-image: url("../assets/img/Social_Network_Analysis_Visualization.jpg");
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.docs-section{
+  margin-top: 4em;
+}
