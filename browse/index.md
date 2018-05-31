@@ -18,7 +18,7 @@ title: Browse
     <h3 class="display-6">Journals Categorized</h3>
     <p class="lead">The journals are categorized into 3 major subjects. Browse by subject, or browse all. Many papers fall under multiple subjects.</p>
     <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-3 h-100">
             <a href="{{ site.baseurl }}/browse/all/">
                 <div class="bs-componet">
                     <div class="alert alert-dismissible alert-danger">
@@ -29,8 +29,17 @@ title: Browse
                 </div>
             </a>
         </div>
-        <div class="col-lg-3">
-            <a href="./social-science-&-humanitaries/">
+        <div class="col-lg-3 h-100">
+            <a href="{{site.baseurl}}/browse/multidisciplinary/">
+                <div class="bs-componet">
+                    <div class="alert alert-dismissible alert-secondary">
+                        Multi-disciplinary<br>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="col-lg-3 h-100">
+            <a href="{{site.baseurl}}/browse/social-science-&-humanitaries/">
                 <div class="bs-componet">
                     <div class="alert alert-dismissible alert-warning">
                         Social Science & Humanitaries
@@ -38,14 +47,14 @@ title: Browse
                 </div>
             </a>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 h-100">
             <div class="bs-componet">
                 <div class="alert alert-dismissible alert-info">
                     Bioscience & Medicince
                 </div>
             </div>
         </div>
-        <div class="col-lg-3">
+        <div class="col-lg-3 h-100">
             <div class="bs-componet">
                 <div class="alert alert-dismissible alert-success">
                     Computers Science & Engineering

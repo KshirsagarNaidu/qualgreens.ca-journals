@@ -21,7 +21,7 @@ title: QualGreens | Journals
             <br><br>
             </h5>
           </div>
-          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="./assets/img/books-3348990_640.jpg" alt="Card image">
+          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="{{site.baseurl}}/assets/img/books-3348990_640.jpg" alt="Card image">
           <div class="card-body">
             <p class="card-text">Find quality research articles, literature reviews, systematic reviews/analysis</p>
           </div>        
@@ -36,7 +36,7 @@ title: QualGreens | Journals
             <h5 class="card-title">Help articles for authors, reviewers, librarians</h5>
           </div>
           <!-- https://pixabay.com/en/notebook-pen-the-work-course-work-2637757/ -->
-          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="./assets/img/notebook-2637757_640.jpg" alt="Card image">
+          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="{{site.baseurl}}/assets/img/notebook-2637757_640.jpg" alt="Card image">
           <div class="card-body">
             <p class="card-text">Get more info on writing your manuscript, the review process and how to access our library</p>
           </div>
@@ -51,7 +51,7 @@ title: QualGreens | Journals
             <h5 class="card-title">Learn about our commitment to Open Access</h5>
           </div>
           <!-- https://pixabay.com/en/castle-padlock-love-symbol-metal-1086896/ -->
-          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="./assets/img/castle-1086896_640.jpg" alt="Card image">
+          <img style="height: 200px; display: block; margin-left: auto; margin-right: auto;" src="{{site.baseurl}}/assets/img/castle-1086896_640.jpg" alt="Card image">
           <div class="card-body">
             <p class="card-text">See how we support open access, advantages/disadvantages and key processes</p>
           </div>
