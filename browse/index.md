@@ -16,7 +16,7 @@ title: Browse
 
 <div class="docs-section container">
     <h3 class="display-6">Journals Categorized</h3>
-    <p class="lead">The journals are categorized into 3 major subjects. Browse by subject, or browse all. Many papers fall under multiple subjects.</p>
+    <p class="lead">The journals are categorized into 3 major subject areas. Browse by subject, or browse all. Many papers fall under multiple subject areas and hence covered by multi-disciplinary catagory. </p>
     <div class="row">
         <div class="col-lg-3 h-100">
             <a href="{{ site.baseurl }}/browse/all/">

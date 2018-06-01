@@ -12,8 +12,13 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
 <div class="container">
   <div class="row">
     <div class="col-md-3 col-sm-12">
-      <div class="card mb-3">
-        <img class="card-img-top" src="{{ site.baseurl }}/assets/img/j-frontpage.jpg" alt="Card image cap">
+      <div class="row justify-content-center">
+        <div class="col-12 card mb-3 p-3">
+          <img class="card-img-top" src="{{ site.baseurl }}/assets/img/j-frontpage.jpg" alt="Card image cap">
+        </div>
+        <div class="col-12">
+            <a href="{{site.baseurl}}/journals/ijmriasb/issues/" type="button" class="btn btn-primary btn-lg btn-block">View Journal Issues</a>
+        </div>
       </div>
     </div>
     <div class="col-md-9 col-sm-12">
@@ -78,7 +83,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
             <tbody>
               <tr>
                 <td style="white-space: nowrap">Jyoti Prakash Naidu</td>
-                <td>Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Research Coordinator, University College London, U.K.; Professor, Presidency University, Bengaluru, India;</td>
+                <td>Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Research Coordinator, University College London, U.K.; Professor, Presidency University, Bengaluru, India</td>
               </tr>
             </tbody>
           </table>
@@ -95,10 +100,10 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
               <tr>
                 <td style="white-space: nowrap">M. Vidyasagar</td>
-                <td>Academic Lead iFellow of the Royal Society UK, Distinguished Prof. IIIT Hyderabad, India; Prof. and Chair (Retd.) in
-                  Systems Biology Science, University of Texas at Dallas, USA; Ex. Executive Vice-President, Advanced Technology Centre,
-                  TCS, India; Ex. Director of Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Professor in University
-                  of Waterloo and Concordia University, Canada.</td>
+                <td>Academic Lead iFellow of the Royal Society UK, Distinguished Prof. IIIT Hyderabad, India; Prof. and Chair (Retd.) in Systems
+                  Biology Science, University of Texas at Dallas, USA; Ex. Executive Vice-President, Advanced Technology Centre, TCS, India;
+                  Ex. Director of Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Professor in University of Waterloo
+                  and Concordia University, Canada</td>
               </tr>
               <tr>
                 <td style="white-space: nowrap">Wiktor Adamus</td>
