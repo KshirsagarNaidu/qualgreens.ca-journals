@@ -32,7 +32,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
         </div>
         <div class="col-md-6 col-12">
           <div class="card">
-            <a href="//presidencyuniversity.in"><img class=".card-img" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
+            <a href="//presidencyuniversity.in"><img class="card-img bg-white" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
           </div>
         </div>
       </div>      
@@ -100,7 +100,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
               <tr>
                 <td style="white-space: nowrap">M. Vidyasagar</td>
-                <td>Academic Lead iFellow of the Royal Society UK, Distinguished Prof. IIIT Hyderabad, India; Prof. and Chair (Retd.) in Systems
+                <td>Fellow of the Royal Society UK, Distinguished Prof. IIIT Hyderabad, India; Prof. and Chair (Retd.) in Systems
                   Biology Science, University of Texas at Dallas, USA; Ex. Executive Vice-President, Advanced Technology Centre, TCS, India;
                   Ex. Director of Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Professor in University of Waterloo
                   and Concordia University, Canada</td>
@@ -144,7 +144,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
         </div>
         <div class="tab-pane fade" id="sponsorer-editors">
           <h5 class="display-6 my-3">Editors from Supporting Institute, Presidency University, India</h5>
-          <a href="//presidencyuniversity.in"><img class="card-img col-4" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
+          <a href="//presidencyuniversity.in"><img class="card-img col-4 bg-white" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
           <table class="table table-hover">
             <tbody>
               <tr>
