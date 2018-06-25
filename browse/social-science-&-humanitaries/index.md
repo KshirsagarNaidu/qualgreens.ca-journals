@@ -27,5 +27,5 @@ title: "Browse Social Science & Humanities Journals"
 
 <div class="container docs-section">
     <h3 class="display-6">Open access journals</h3>
-    <p class="lead">QualGreens Publishing offers you the option to publish papers open access. All articles published open access will be immediately and permanently free for everyone to read and download.</p>
+    <p class="lead">TechnoDevelop offers you the option to publish papers open access. All articles published open access will be immediately and permanently free for everyone to read and download.</p>
 </div>
