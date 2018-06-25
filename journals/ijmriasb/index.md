@@ -59,10 +59,11 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
       </article>
       <ul class="nav nav-tabs my-3">
         <li class="nav-item">
-          <a class="nav-link active" data-toggle="tab" href="#editorial-board">Editorial Board</a>
+          <a class="nav-link active" data-toggle="tab" href="#editorial-board">Editorial & Advisory Board</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Editors from Supporting Institution</a>
+          <!-- <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Editors from Supporting Institution</a> -->
+          <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Team from Supporting Institution</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#aims">Aims</a>
@@ -78,7 +79,8 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
       </ul>
       <div id="myTabContent" class="tab-content">
         <div class="tab-pane fade show active" id="editorial-board">
-          <h5 class="display-6 my-6">Editor-in-chief</h5>
+        <h5 class="display-6 my-6">Editorial Board</h5>
+          <h6 class="display-6 my-6">Editor-in-chief</h6>
           <table class="table table-hover">
             <tbody>
               <tr>
@@ -87,7 +89,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
             </tbody>
           </table>
-          <h5 class="display-6">Editorial Board</h5>
+          <h5 class="display-6">Advisory Board</h5>
           <table class="table table-hover">
             <tbody>
               <tr>
@@ -116,7 +118,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
               <tr>
                 <td style="white-space: nowrap">G. Poyyamoli</td>
-                <td>Professor and Ex-Head, Dept. of Ecology & Environmental Science, Pondicherry University, Puducherry, India</td>
+                <td>Professor(retd.) and Ex-Head, Dept. of Ecology & Environmental Science, Pondicherry University, Puducherry, India</td>
               </tr>
               <tr>
                 <td style="white-space: nowrap">Mahmoud Shafik</td>
@@ -143,8 +145,8 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
           </table>
         </div>
         <div class="tab-pane fade" id="sponsorer-editors">
-          <h5 class="display-6 my-3">Editors from Supporting Institute, Presidency University, India</h5>
-          <a href="//presidencyuniversity.in"><img class="card-img col-4 bg-white" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
+          <h5 class="display-6 my-3">Team from Supporting Institute, Presidency University, India</h5>
+          <a href="//presidencyuniversity.in"><img class="card-img col-4 bg-white" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" style alt="Presidency Univeristy Banner"></a>
           <table class="table table-hover">
             <tbody>
               <tr>
