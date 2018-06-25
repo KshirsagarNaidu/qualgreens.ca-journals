@@ -9,7 +9,7 @@ title: QualGreens | Journals
   </p>
 </div>
 <div class="container">
-  <div class="row">
+  <div class="row card-deck">
     <div class="col-sm-12 col-md-4">
       <a href="/browse">
         <div class="card mb-3">

@@ -18,7 +18,8 @@ title: About Us
             <h5 class="card-title">Contact Us</h5>
             <p>
                 <small class="text-muted">Published in Canada by</small>
-                <br> QualGreens Journals
+                {% comment %} <br> QualGreens Journals {% endcomment %}
+                <br> TechnoDevelop Corporation
                 <br> 929 Greenbriar Avenue
                 <br> Ottawa, Canada K2C 0J8
                 <br> support@qualgreens.ca
