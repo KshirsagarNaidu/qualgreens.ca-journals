@@ -11,7 +11,7 @@ title: Browse
 </div>
 
 <div class="docs-section container">
-    <p class="lead">QualGreens Publishing aims to publish quality leading research artilces and papers for open-access. Our team of fellow scientists and publication teams will guide you through the publishing process.</p>
+    <p class="lead">TechnoDevelop aims to publish quality leading research artilces and papers for open-access. Our team of fellow scientists and publication teams will guide you through the publishing process.</p>
 </div>
 
 <div class="docs-section container">
