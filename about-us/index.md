@@ -4,8 +4,8 @@ title: About Us
 ---
 <div class="container">
     <h3 class="display-6">About Us</h3>
-    <p>We at QualGreens strive to facilitate a sustainable open-access publishing platform for all fields of research that impact societies.</p>
-    <p>QualGreens strongly advocates open-access publishing and thus provides the resources and support for the authors and
+    <p>We at TechnoDevelop strive to facilitate a sustainable open-access publishing platform for all fields of research that impact societies.</p>
+    <p>TechnoDevelop strongly advocates open-access publishing and thus provides the resources and support for the authors and
         peer-reviewers who submit or review the manuscripts thorughout the process.</p>
     <p>We take authorship copyright and licenses seriously and hope to see the authors works freely distributed under the
         open-access initiative, mainly through support from institutions.</p>
