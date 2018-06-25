@@ -27,5 +27,5 @@ title: All Journals
 
 <div class="container docs-section">
     <h3 class="display-6">Open access journals</h3>
-    <p>QualGreens Publishing offers you the option to publish papers open access. All articles published open access will be immediately and permanently free for everyone to read and download.</p>
+    <p>TechnoDevelop offers you the option to publish papers open access. All articles published open access will be immediately and permanently free for everyone to read and download.</p>
 </div>
