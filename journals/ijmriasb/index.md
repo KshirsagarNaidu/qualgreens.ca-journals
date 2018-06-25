@@ -5,7 +5,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
 <div class="jumbotron ssandh">
   <h3 class="display-4">{{ page.title }}</h3>
   <p class="lead">
-    Bridge the gap between scholarly research and societal benefit by presentation of applications of research and innovation for the community
+    To bridge the gap between scholarly research and societal benefit by presentation of applications of research and innovation for the community
   </p>
 </div>
 
@@ -85,7 +85,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
             <tbody>
               <tr>
                 <td style="white-space: nowrap">Jyoti Prakash Naidu</td>
-                <td>Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India; Ex. Research Coordinator, University College London, U.K.; Professor, Presidency University, Bengaluru, India</td>
+                <td>Director TechnoDevelop Corporation (Canada), Visiting Professor Presidency University, Bengaluru, India; Ex. Research Coordinator, University College London, U.K.; Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India</td>
               </tr>
             </tbody>
           </table>
@@ -118,7 +118,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
               <tr>
                 <td style="white-space: nowrap">G. Poyyamoli</td>
-                <td>Professor(retd.) and Ex-Head, Dept. of Ecology & Environmental Science, Pondicherry University, Puducherry, India</td>
+                <td>Professor (retd.) and Ex-Head, Dept. of Ecology & Environmental Science, Pondicherry University, Puducherry, India</td>
               </tr>
               <tr>
                 <td style="white-space: nowrap">Mahmoud Shafik</td>
@@ -145,8 +145,16 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
           </table>
         </div>
         <div class="tab-pane fade" id="sponsorer-editors">
+            <!-- <table class="table table-hover">
+            <tbody>
+              <tr>
+                <td >Sapna Mohan</td>
+                <td>Dean School of Law, Presidency University, Bengaluru, India</td>
+              </tr>
+            </tbody>
+            </table> -->
           <h5 class="display-6 my-3">Team from Supporting Institute, Presidency University, India</h5>
-          <a href="//presidencyuniversity.in"><img class="card-img col-4 bg-white" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" style alt="Presidency Univeristy Banner"></a>
+          <a style="width: 20rem;" href="//presidencyuniversity.in"><img class="bg-white" style="width: 20rem;" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
           <table class="table table-hover">
             <tbody>
               <tr>
@@ -224,7 +232,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
         <div class="tab-pane fade" id="author-guidelines">
           <h5 class="display-6">Author Guidelines</h5>
           <p>This journal follows the author guidelines provided by The Royal Society for majority of the journals published by them, Interface in particular. These guidelines are available at: <a href="https://royalsociety.org/journals/authors/author-guidelines/">https://royalsociety.org/journals/authors/author-guidelines/</a></p>
-          <p>However, authors may note that this journal extends the trans-disciplinary nature beyond physical and life sciences (considering Interface as the format to follow) with possibilities to discuss social sciences, management, humanities, and law if and wherever relevant.</p>
+          <p>However, authors may note that this journal extends the trans-disciplinary nature beyond physical and life sciences (considering Interface as the format to follow) with possibilities to discuss social sciences, management, humanities, and law if and wherever relevant. To accommodate this expected nature of articles, Harvard style of referencing and citation is adopted.</p>
         </div>
         <div class="tab-pane fade" id="submission-process">
           <h5 class="display-6 my-3">Submission Process</h5>

@@ -5,9 +5,8 @@ title: About Us
 <div class="container">
     <h3 class="display-6">About Us</h3>
     <p>We at TechnoDevelop strive to facilitate a sustainable open-access publishing platform for all fields of research that impact societies.</p>
-    <p>TechnoDevelop strongly advocates open-access publishing and thus provides the resources and support for the authors and
-        peer-reviewers who submit or review the manuscripts thorughout the process.</p>
-    <p>We take authorship copyright and licenses seriously and hope to see the authors works freely distributed under the
+    <p>TechnoDevelop strongly advocates open-access publishing and thus provides the resources and support for the authors and peer-reviewers who submit or review the manuscripts thorughout the process.</p>
+    <p>We take authorship copyright and licenses seriously and hope to see the authors' works freely distributed under the
         open-access initiative, mainly through support from institutions.</p>
     <p>We recognize the difficulties that many developing countries would have with regards to fees and pricing, and thus we
         have discounts or fee waivers for manuscripts written by authors often supported by an educational or industrial
