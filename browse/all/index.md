@@ -5,7 +5,7 @@ title: All Journals
 <div class="jumbotron ssandh">
   <h1 class="display-3">{{ page.title }}</h1>
   <p class="lead">
-    Social Sciences and Humanities focuses on the study of interaction and social relationships, and includes Business, Accounting, Decision Sciences and Psychology.
+    All journals.
   </p>
 </div>
 
