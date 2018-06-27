@@ -61,10 +61,10 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
         <li class="nav-item">
           <a class="nav-link active" data-toggle="tab" href="#editorial-board">Editorial & Advisory Board</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item"> -->
           <!-- <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Editors from Supporting Institution</a> -->
-          <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Team from Supporting Institution</a>
-        </li>
+          <!-- <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Team from Supporting Institution</a> -->
+        <!-- </li> -->
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#aims">Aims</a>
         </li>
@@ -89,13 +89,26 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
             </tbody>
           </table>
-          <h5 class="display-6">Advisory Board</h5>
+          <h6 class="display-6">Associate Editors</h6>
           <table class="table table-hover">
             <tbody>
               <tr>
                 <td style="white-space: nowrap">Darren Ward</td>
                 <td>Manager, Business Planning & Commercialization, Vineland Research & Innovation Centre, Vineland Station, Ontario, Canada</td>
               </tr>
+              <tr>
+                  <td style="white-space: nowrap">Sucheta Catakam</td>
+                  <td>Educator, Ottawa Carleton District School Board (OCDSB), Ottawa, ON, Canada</td>
+                </tr>
+            </tbody>
+          </table>
+          <h5 class="display-6">Advisory Board</h5>
+          <table class="table table-hover">
+            <tbody>
+              <!-- <tr>
+                <td style="white-space: nowrap">Darren Ward</td>
+                <td>Manager, Business Planning & Commercialization, Vineland Research & Innovation Centre, Vineland Station, Ontario, Canada</td>
+              </tr> -->
               <tr>
                 <td style="white-space: nowrap">Justin Steele-Davies</td>
                 <td>Academic Lead in Engineering, University of Derby, U.K.</td>
