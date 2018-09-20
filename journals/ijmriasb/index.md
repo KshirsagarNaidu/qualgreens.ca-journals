@@ -61,10 +61,10 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
         <li class="nav-item">
           <a class="nav-link active" data-toggle="tab" href="#editorial-board">Editorial & Advisory Board</a>
         </li>
-        <!-- <li class="nav-item"> -->
+        <li class="nav-item">
           <!-- <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Editors from Supporting Institution</a> -->
-          <!-- <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Team from Supporting Institution</a> -->
-        <!-- </li> -->
+          <a class="nav-link" data-toggle="tab" href="#sponsorer-editors">Editors/Patrons from Supporting Institution</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" data-toggle="tab" href="#aims">Aims</a>
         </li>
@@ -85,7 +85,7 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
             <tbody>
               <tr>
                 <td style="white-space: nowrap">Jyoti Prakash Naidu</td>
-                <td>Director TechnoDevelop Corporation (Canada), Visiting Professor Presidency University, Bengaluru, India; Ex. Research Coordinator, University College London, U.K.; Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India</td>
+                <td>Visiting Professor Presidency University, Bengaluru, India; Director TechnoDevelop Corporation (Canada); Ex. Research Coordinator, University College London, U.K.; Ex. Senior Engineer/Director/Partner, MIT Cambridge U.S.A. and University of Toronto Canada Spin-offs, HMT Ltd. India; Ex. Head of Robotics and VR Depts., Centre for Artificial Intelligence and Robotics, DRDO, India</td>
               </tr>
             </tbody>
           </table>
@@ -166,8 +166,8 @@ title: "International Journal of Multidisciplinary Research and Innovation Appli
               </tr>
             </tbody>
             </table> -->
-          <h5 class="display-6 my-3">Team from Supporting Institute, Presidency University, India</h5>
-          <a style="width: 20rem;" href="//presidencyuniversity.in"><img class="bg-white" style="width: 20rem;" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
+          <h5 class="display-6 my-3">Editorial Team from Supporting Institute, Presidency University, India</h5>
+          <a style="width: 20rem;" href="//presidencyuniversity.in"><img class="bg-white" style="width: 20rem; margin-top: 1em; margin-bottom: 1em;" src="{{ site.baseline }}/assets/img/instutution_logo/presidency_university.png" alt="Presidency Univeristy Banner"></a>
           <table class="table table-hover">
             <tbody>
               <tr>
